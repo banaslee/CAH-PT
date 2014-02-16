@@ -1,4 +1,4 @@
-CAH-PT
+Cards Against Humanity - Portuguese (EU) Version
 ======
 
-Cards Agains Humanity - Portugal Version
+Cards Agains Humanity - Portuese Version
